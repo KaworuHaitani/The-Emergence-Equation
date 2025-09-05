@@ -1,4 +1,4 @@
-# Emergence Equation Theory
+# The Emergence Equation
 
 ## Overview
 
