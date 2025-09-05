@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "The Emergence Equation Theory"
+version: 1.0.0
+date-released: 2025
+url: "https://github.com/KaworuHaitani?tab=repositories"
+repository-code: "https://github.com/KaworuHaitani?tab=repositories"
+abstract: "A theoretical framework proposing a universal non-linear reaction-diffusion equation that describes the dynamics of effective quantum degrees of freedom across multiple scales. The theory offers a unified approach to diverse phenomena ranging from cosmological scales (dark energy, dark matter) to quantum systems and biological rhythms. The central equation formalizes the observed empirical dispersion suppression rule and provides a mathematical foundation for emergent phenomena across physics."
+keywords:
+  - "emergence equation"
+  - "dispersion suppression rule"
+  - "effective quantum degrees of freedom"
+  - "scale unification"
+  - "dark energy"
+  - "dark matter"
+  - "quantum decoherence"
+  - "biological rhythms"
+  - "non-linear dynamics"
+  - "universal equation"
+references:
+  - type: website
+    url: "https://github.com/KaworuHaitani?tab=repositories"
+    title: "The Emergence Equation Theory"
