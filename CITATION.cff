@@ -4,7 +4,7 @@ authors:
   - family-names: "Haitani"
     given-names: "Kaworu"
 type: software
-title: "The Emergence Equation Theory"
+title: "The Emergence Equation"
 version: 1.0.0
 date-released: 2025
 url: "https://github.com/KaworuHaitani?tab=repositories"
@@ -24,4 +24,4 @@ keywords:
 references:
   - type: website
     url: "https://github.com/KaworuHaitani?tab=repositories"
-    title: "The Emergence Equation Theory"
+    title: "The Emergence Equation"
